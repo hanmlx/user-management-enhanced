@@ -110,10 +110,6 @@ The plugin uses the text domain `user-management-enhanced` for internationalizat
 - Role conversion functionality
 - WooCommerce email integration
 
-## Support
-
-For support, please contact the plugin author or post on the WordPress support forums.
-
 ## License
 
 This plugin is licensed under GPL v2 or later.
